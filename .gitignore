@@ -1,0 +1,8 @@
+
+old\
+venv\
+*.aux
+*.bbl
+*.blg
+*.out
+*.tex
